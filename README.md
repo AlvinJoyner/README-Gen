@@ -5,7 +5,7 @@
 Create a professional Read me by using the command line/terminal
 
 
-## INstallation 
+## Installation 
 Run npm init -y and npm i inquirer in the integrated terminal.
 
 ## Usage
